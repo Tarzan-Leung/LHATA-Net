@@ -16,5 +16,5 @@ mim install "mmcv>=2.0.0"
 
 Train with LHATA-Net:
 ```bash
-yolo cfg=<your_cfg_name>.yaml model=./LHATA-Net.yaml imgsz=640 epoch=300 batch=64 device=0,1,2,3,4,5,6,7 optimizer=SGD deterministic=False amp=False 
+yolo cfg=<path_to_your_cfg> model=LHATA-Net.yaml imgsz=640 epoch=300 batch=64 device=0,1,2,3,4,5,6,7 optimizer=SGD deterministic=False amp=False 
 ```
