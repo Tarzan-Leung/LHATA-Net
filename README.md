@@ -6,13 +6,11 @@ Pip install the ultralytics package including all [requirements](https://github.
 
 Pip install the other pakage.
 ```bash
-<<<<<<< HEAD
 pip install -r requirements.txt
 =======
 pip install -U openmim
 mim install mmengine
 mim install "mmcv>=2.0.0"
->>>>>>> 39b73c9c7b8e585ff1bda24a3a1cf0680d78dd8a
 ```
 
 <details open>
