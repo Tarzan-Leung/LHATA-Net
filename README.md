@@ -6,7 +6,7 @@ Pip install the ultralytics package including all [requirements](https://github.
 
 Pip install the other pakage.
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 <details open>
